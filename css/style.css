@@ -6,8 +6,6 @@ a[ href="https://validator.w3.org/"] {
     color: red;
 }
 
-<p>
-Lorem ipsum,dolor sit amet consectetur adipisicing elit. Dolore,accusamus. 
-</p> {
+.text {
     font-size: 24px;
 }
